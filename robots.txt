@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /_build/
+Sitemap: https://webworksa1.github.io/mind-media/sitemap.xml
